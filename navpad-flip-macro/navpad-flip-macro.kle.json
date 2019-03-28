@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "t": "#000000\n\n#ff0000"
+    },
+    "\n+\n7",
+    "\n*\n8",
+    "\nPrtSc\n9",
+    {
+      "t": "#000000\n#ff0000",
+      "a": 5
+    },
+    "\nTG(1)",
+    {
+      "t": "#000000",
+      "a": 4
+    },
+    "\nHome",
+    "\nPgUp"
+  ],
+  [
+    {
+      "t": "#000000\n\n#ff0000"
+    },
+    "\n-\n4",
+    "\n/\n5",
+    "\nBksp\n6",
+    {
+      "t": "#000000"
+    },
+    "\nDel",
+    "\nEnd",
+    "\nPgDn"
+  ],
+  [
+    {
+      "t": "#000000\n\n#ff0000"
+    },
+    "\nSpace\n1",
+    "\nGui\n2",
+    "\nAlt\n3",
+    {
+      "t": "#000000"
+    },
+    "\n,\n\n\n\n\n<",
+    "\n<i class='kb kb-Arrows-Up'></i>",
+    "\n.\n\n\n\n\n>"
+  ],
+  [
+    {
+      "t": "#000000\n\n#ff0000",
+      "w": 2
+    },
+    "\nLeft Control\n0",
+    "\nShift\n.",
+    {
+      "t": "#000000"
+    },
+    "\n<i class='kb kb-Arrows-Left'></i>",
+    "\n<i class='kb kb-Arrows-Down'></i>",
+    "\n<i class='kb kb-Arrows-Right'></i>"
+  ]
+]
