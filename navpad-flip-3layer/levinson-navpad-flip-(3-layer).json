@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Levinson Navpad Flip (3 Layer)",
+    "author": "Will Wolff-Myren",
+    "switchMount": "alps",
+    "switchBrand": "alps",
+    "switchType": "SKBL/SKBM",
+    "plate": true
+  },
+  [
+    {
+      "t": "#000000\n\n#ff0000"
+    },
+    "\n7\n&",
+    "\n8\n*",
+    "\n9\n(",
+    {
+      "t": "#0000ff\n\n#ff0000\n\n\n\n\n\n\n\n#000000",
+      "fa": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "=\nLock\nEsc\n\n\n\nNum",
+    {
+      "t": "#0000ff\n\n#ff0000\n\n\n\n\n#ff0000",
+      "fa": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        2
+      ]
+    },
+    "-\nHome\n~\n\n\n\n\n`",
+    {
+      "t": "#0000ff\n\n#ff0000",
+      "fa": [
+        0,
+        0,
+        1
+      ]
+    },
+    "/\nPgUp\nTab"
+  ],
+  [
+    {
+      "t": "#000000\n\n#ff0000",
+      "f": 3
+    },
+    "\n4\n$",
+    {
+      "f": 3
+    },
+    "\n5\n%",
+    {
+      "f": 3
+    },
+    "\n6\n^",
+    "\nDel\nBkSp",
+    {
+      "t": "#0000ff\n\n#ff0000"
+    },
+    "+\nEnd\nSpace",
+    "*\nPgDn\nEnter"
+  ],
+  [
+    {
+      "t": "#000000\n\n#ff0000",
+      "f": 3
+    },
+    "\n1\n!",
+    {
+      "f": 3
+    },
+    "\n2\n@",
+    {
+      "f": 3
+    },
+    "\n3\n#",
+    {
+      "t": "#000000\n#0000ff"
+    },
+    "\nTG(1)",
+    {
+      "t": "#000000"
+    },
+    "\n<i class='kb kb-Arrows-Up'></i>",
+    {
+      "t": "#000000\n#ff0000"
+    },
+    "\nTG(2)"
+  ],
+  [
+    {
+      "t": "#000000\n\n#ff0000",
+      "f": 3,
+      "w": 2
+    },
+    "\n0\n)",
+    {
+      "f": 3
+    },
+    "\n.\n~",
+    {
+      "t": "#000000"
+    },
+    "\n<i class='kb kb-Arrows-Left'></i>",
+    "\n<i class='kb kb-Arrows-Down'></i>",
+    "\n<i class='kb kb-Arrows-Right'></i>"
+  ]
+]
